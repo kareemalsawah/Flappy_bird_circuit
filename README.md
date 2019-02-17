@@ -3,3 +3,4 @@ Using an analog circuit to play flappy bird. The idea is to convert a trained ne
 
 ### Current development state:
 Created the game in pygame
+Used the library deap to train the model using a genetic algorithm
